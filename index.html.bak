@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>RMIT-ePortfolia-PersonalInformation</title>
+</head>
+
+
+
+<body>
+
+<h1>Personal Information</h1>
+<p>
+	<img src="MyProfilePic.jpeg" alt="Lynn Su Wai" width="350" height="300" >
+	<br> <strong>Name: </strong>Lynn Su Wai    
+	<br> <strong>Student ID:</strong> s3934613  
+	<br> <strong>Email: </strong>s3934613@student.rmit.edu.au  
+	<br> <strong>Profile Webpage:</strong>
+	<br> <strong>Repo Webpage: </strong>
+</p>
+
+<p>
+	I am 32 years old and was born in Myanmar (Burma), I came to Australia in 2010 for further study.
+    I have a Diploma of Electronics and Communications through TAFE NSW,  Bachelor Degree of Engineering (Electrical) at University of Western Sydney. After I graduated from University, I moved to Dubbo, NSW Regional area and working full time. Dubbo is a nice and quiet place than Sydney.  Since I can drive everywhere in Dubbo within 15 mins drive, there is no traffic jam in Dubbo. However, I have limited choice of Asian food, my favourite cuisine, in here. I love to watch Japanese anime and watching movies in my leisure time. 
+</p>
+
+
+
+
+<p> Go back to <a href="testing_hyperlink.html">hyperlink</a> page</p>
+
+</body>
+</html>
